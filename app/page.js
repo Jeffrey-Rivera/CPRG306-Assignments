@@ -5,12 +5,9 @@ export default function Page() {
       <main>
         <h1>CPRG 306: Web Development - Assignments</h1>
         <ul>
-          <li>
-            <Link href="week-2">week 2</Link><></>
-          </li>
-          <li>
-            <Link href="week-3">week 3</Link><></>
-          </li>
+          <li><Link href="week-2">week 2</Link><></></li>
+          <li><Link href="week-3">week 3</Link><></></li>
+          <li><Link href="week-4">week 4</Link><></></li>
         </ul>
         
       </main>
