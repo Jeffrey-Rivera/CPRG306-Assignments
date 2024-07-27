@@ -12,6 +12,7 @@ export default function Page() {
         <li style={{ fontSize: "26px" }}><Link href="week-6">week 6</Link></li>
         <li style={{ fontSize: "26px" }}><Link href="week-7">week 7</Link></li>
         <li style={{ fontSize: "26px" }}><Link href="week-8">week 8</Link></li>
+        <li style={{ fontSize: "26px" }}><Link href="week-9">week 9</Link></li>
       </ul>
     </main>
   );
